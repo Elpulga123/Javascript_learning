@@ -1,0 +1,24 @@
+{
+  "name": "template",
+  "authors": [
+    "Thắng Nguyễn"
+  ],
+  "description": "giao diện",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "4.4.1",
+    "owl.carousel": "^2.3.4",
+    "animate-js": "^0.0.3",
+    "jquery": "^3.5.1"
+  }
+}
